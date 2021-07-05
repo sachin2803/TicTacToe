@@ -46,7 +46,7 @@ body {
     grid-template-rows: 62px 62px 62px;
     grid-template-columns: 62px 62px 62px;
     background-color: #27a37e;
-    grid-gap : 5px;
+    grid-gap : 4px;
     
 }
 
