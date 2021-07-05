@@ -1,3 +1,7 @@
+body {
+  background-image: url('bgimage.jpg');
+}
+
 #box {
     width : 250px;
     height : 300px;
